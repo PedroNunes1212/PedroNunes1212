@@ -14,7 +14,7 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/PedroNunes1212/PedroNunes1212" target="_blank"><img src=" width="50px" height="50px"/></a>
+<td><a href="https://github.com/PedroNunes1212/PedroNunes1212" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://replit.com/@pgn2005"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/replit3.svg?raw=true" width="50px" height="50px"/></a>
 </td>
