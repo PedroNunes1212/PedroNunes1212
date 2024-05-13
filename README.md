@@ -43,7 +43,7 @@
 
 <div align="justify">
 
-  
+Sou formado no IFMG-OP como técnico em edificações (2020-2024) , iniciei o curso de Engenharia de Software na Puc Minas(2024-...)
   
   
   
@@ -65,9 +65,10 @@
 
 <div align="justify">
 <p> 
+- Torço para o Atlético Mineiro.
+- Meus hobbie são jogar tênis, futebol e no computador.
 
 
-..
 
 
 
