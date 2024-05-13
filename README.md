@@ -157,7 +157,6 @@ Sou formado no IFMG-OP como técnico em edificações (2020-2024) , iniciei o cu
 
 <br />
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=PedroNunes1212"/>
-<a href="https://stars.github.com/nominate/" target="_blank"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20useful&color=blue"/></a>
 <br />
 <img alt="Followers" src="https://img.shields.io/github/followers/PedroNunes1212?style=social"/>
 <img alt="Stars" src="https://img.shields.io/github/stars/PedroNunes1212?style=social"/>
