@@ -61,7 +61,7 @@
 <img align="right" alt="GIF" src= width="340px" height="520px"/>
 </div>
 
-<img height="20" alt="GIF" src=  "/>Meus interesses pessoais:
+<img height="20" alt="GIF" src="  "/>Meus interesses pessoais:
 
 <div align="justify">
 <p> 
