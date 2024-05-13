@@ -67,7 +67,7 @@ Sou formado no IFMG-OP como técnico em edificações (2020-2024) , iniciei o cu
 <p> 
 - Torço para o Atlético Mineiro.
  <br /> -Meus hobbie são jogar tênis, futebol e no computador. <br />
-
+ <br /> Inglês avançado e aprendendo Francês. <br />
 
 
 
