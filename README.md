@@ -34,7 +34,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Pedro</code>, tenho 18 anos, moro em BH. Atualmente estou cursando Enhenharia de Software na Puc Minas do   <a href=  "https://www.pucminas.br/mundopucminas/Paginas/UnidadeCoracaoEucaristico.aspx" Coração Eucaristico</a> 
+<i><b>Olá</b> :wave:, sou o <code>Pedro</code>, tenho 18 anos, moro em BH. Atualmente estou cursando Enhenharia de Software na Puc Minas do   <a href=  "https://www.pucminas.br/mundopucminas/Paginas/UnidadeCoracaoEucaristico.aspx"> Coração Eucaristico </a> 
 </div>
 
 -----
