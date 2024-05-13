@@ -61,7 +61,7 @@ Sou formado no IFMG-OP como técnico em edificações (2020-2024) , iniciei o cu
 <img align="right" alt="GIF" src= width="340px" height="520px"/>
 </div>
 
-<img height="20" alt="GIF" src="  "/>Meus interesses pessoais:
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
 
 <div align="justify">
 <p> 
